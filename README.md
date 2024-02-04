@@ -12,11 +12,9 @@
  
  🔭 I’m currently working on **a marketplace**<h4> (DC DUHOK Application) </h4>
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Flutter, Firebase, Backend**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Ask me about **Flutter, Dart, Firebase, PHP... or anything [here](https://github.com/DilkhoshSaadon98/issues)**
 
  </div>
  
