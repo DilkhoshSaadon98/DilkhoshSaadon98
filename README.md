@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace** (DC DUHOK Application)
+ 🔭 I’m currently working on **a marketplace**<h4> (DC DUHOK Application) </h4>
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
