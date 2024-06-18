@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dilkhosh+Saadon!;" />
 </h1>
 
-<h3 align="center">A Mobile Developer From Kurdistan</h3>
+<h3 align="center">A Mobile Developer From Kurdistan - Iraq</h3>
 
 <br/>
 
@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,mysql,python,javascript,firebase" />
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,c,java,php,arduino,robotics" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,c,java,php,arduino,dbms" /><br>
 </div>
 
 <br/>
