@@ -10,11 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplac (DC DUHOK Application)**
- 
- 🌱 I’m currently learning **Flutter, Firebase, Backend**
+ 🔭 I’m currently working on **a marketplac (Cashier System Multi Platform)**
 
-💬 Ask me about **Flutter, Dart, Firebase, PHP, DBMS... or anything**
+💬 Ask me about **Flutter, Dart, Firebase, PHP, DBMS, Arduino**
 
  </div>
  
