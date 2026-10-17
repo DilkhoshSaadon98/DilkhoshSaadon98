@@ -1,149 +1,130 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5&height=220&section=header&text=Dilkhosh%20Saadon&fontSize=56&fontAlignY=36&desc=Mobile%20%26%20Full-Stack%20Developer&descAlignY=58&descAlign=50&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Dilkhosh%20Saadon&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Mobile%20%26%20Full-Stack%20Developer&descColor=00D4FF&descAlignY=60&descAlign=50&animation=fadeIn" width="100%" alt="Header" />
 
 <a href="https://github.com/DilkhoshSaadon98">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+cross-platform+apps+with+Flutter;Backend+systems+with+PHP+%26+MySQL;Shipping+real+products+for+real+users;Open+to+collaboration+%26+freelance" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Building+cross-platform+apps+with+Flutter+%26+Dart;Designing+REST+APIs+and+MySQL+systems+with+PHP;Connecting+hardware+to+mobile+with+Arduino+%26+Firebase;Shipping+real+products+used+by+real+people" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Norway-Steinkjer-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
-<img src="https://komarev.com/ghpvc/?username=DilkhoshSaadon98&style=flat-square&color=blueviolet&label=Profile+Views" />
+<img src="https://img.shields.io/badge/📍_Kurdistan,_Iraq-1E293B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🟢_Open_to_Work-16A34A?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=DilkhoshSaadon98&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" />
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## 👋 About
 
-I'm a **Mobile & Full-Stack Developer** who designs and ships products end to end:
-from **Flutter** interfaces and **Dart** logic, to **PHP REST APIs**, **MySQL** schemas,
-and **Firebase** push notifications. I care about clean architecture, multi-language
-experiences, and software that works well for the people who use it every day.
+I design and build **mobile products end to end**: Flutter interfaces, Dart business logic, PHP REST APIs with JWT authentication, MySQL schemas, Firebase push notifications, and **Arduino hardware integration**.
 
-```dart
-final developer = Developer(
-  name: 'Dilkhosh Saadon',
-  focus: ['Flutter', 'Dart', 'PHP', 'MySQL', 'Firebase'],
-  location: 'Kurdistan, Iraq',
-  openTo: ['Full-time roles', 'Freelance', 'Collaboration'],
-);
-```
+My focus is on software that works well in daily use: clean architecture, multilingual and right-to-left interfaces, and systems that non-technical staff can operate without training.
 
----
+## 🎯 Currently
+
+- 🛒 Building **Sooq**, a multi-platform marketplace with delivery and a digital wallet
+- 🍽️ Maintaining the **Glør Restaurant** platform: API, public website, and Flutter admin & staff apps
+- 🧾 Developing a **multi-platform Cashier System**
+- 🧑‍💻 Improving my portfolio with production-style projects
 
 ## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="33%" valign="top">
-
-### 🛒 Sooq
-**Marketplace & Delivery Platform**
-
-Multi-platform marketplace with delivery workflows and an integrated digital wallet.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
+      <h3>🛒 Sooq</h3>
+      <p><b>Marketplace & Delivery Platform</b></p>
+      <p>Multi-platform marketplace with delivery workflows and an integrated digital wallet.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
     </td>
     <td width="33%" valign="top">
-
-### 🍽️ Glør Restaurant Platform
-**Full Restaurant Management System**
-
-REST API with JWT auth, a public website, and Flutter admin & staff apps for rosters, timesheets, and notifications.
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
+      <h3>🍽️ Glør Restaurant</h3>
+      <p><b>Restaurant Management System</b></p>
+      <p>REST API with JWT auth, public website, and Flutter admin & staff apps for rosters, timesheets, and notifications.</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
     </td>
     <td width="33%" valign="top">
-
-### 🚗 Nordlys
-**Norwegian Driving Theory App**
-
-Multilingual learning app in Arabic, Kurdish Sorani, English, and Norwegian, with a structured MySQL content pipeline.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![i18n](https://img.shields.io/badge/i18n-RTL%20Ready-orange?style=flat-square)
-
+      <h3>🚗 Nordlys</h3>
+      <p><b>Norwegian Driving Theory App</b></p>
+      <p>Learning app in Arabic, Kurdish Sorani, English, and Norwegian, backed by a structured MySQL content pipeline.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/i18n-RTL-F97316?style=flat-square" />
     </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🧾 Cashier System</h3>
+      <p><b>Multi-Platform Point-of-Sale</b></p>
+      <p>Cashier application that runs across multiple platforms, designed for fast daily sales operations and easy management by staff.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>👶 Smart Baby Room Monitor</h3>
+      <p><b>Arduino + Flutter + Firebase IoT</b></p>
+      <p>Monitors the baby's room through an Arduino device and lets parents control it remotely from a mobile app. Firebase acts as the real-time bridge between the hardware and the app.</p>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+    </td>
+    <td width="33%" valign="top"></td>
   </tr>
 </table>
 
----
+## 🧰 Tech Stack
 
-## 🧠 Tech Stack
-
-<div align="center">
-
-**Languages & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,php,mysql,firebase,javascript,html,css,python,c,java,arduino" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-
-</div>
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,php,mysql,firebase,javascript,html,css,python,c,java,arduino" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 ## ⚡ Core Strengths
 
-| Area | What I Do |
-|------|-----------|
+| Area | What I do |
+|---|---|
 | 📱 **Mobile** | Cross-platform apps with Flutter & Dart, responsive layouts, RTL support |
 | 🔌 **Backend** | REST APIs, JWT authentication, role-based access control |
-| 🗄️ **Database** | Schema design, migrations, query optimization (MySQL / MariaDB) |
-| 🔔 **Real-time** | Push notifications and messaging with Firebase Cloud Messaging |
-| 🌍 **Localization** | Multi-language apps (Arabic, Kurdish, English, Norwegian) |
-| 🎨 **Product** | UI/UX-minded development with Figma-based workflows |
-
----
+| 🗄️ **Database** | Schema design, migrations, and query optimization in MySQL / MariaDB |
+| 🔔 **Real-time** | Push notifications and live data sync with Firebase |
+| 🤖 **Hardware / IoT** | Arduino devices connected to mobile apps through Firebase |
+| 🌍 **Localization** | Multi-language apps: Arabic, Kurdish, English, Norwegian |
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DilkhoshSaadon98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DilkhoshSaadon98&theme=tokyonight&hide_border=true" />
+<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DilkhoshSaadon98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilkhoshSaadon98&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilkhoshSaadon98&layout=compact&theme=tokyonight&hide_border=true" />
+<img alt="Streak" src="https://github-readme-streak-stats.demolab.com/?user=DilkhoshSaadon98&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
+## 📫 Let's Connect
 
-## 📫 Let's Work Together
+I'm open to **Flutter** roles, **full-stack** projects, **IoT** collaborations, and freelance work.
 
-<div align="center">
+<p>
+  <a href="mailto:fares.baqe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dilkhosh-saadon-1430ba1a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/DilkhoshSaadon98?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-I'm always interested in **Flutter** projects, **full-stack** systems, and meaningful collaborations.
-
-<a href="mailto:fares.baqe@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/dilkhosh-saadon-1430ba1a9/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/DilkhoshSaadon98?tab=repositories">
-  <img src="https://img.shields.io/badge/All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5&height=120&section=footer" width="100%" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="Footer" />
