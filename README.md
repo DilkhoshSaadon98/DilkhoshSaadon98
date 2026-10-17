@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Kurdistan-Iraq-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Norway-Steinkjer-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
 <img src="https://komarev.com/ghpvc/?username=DilkhoshSaadon98&style=flat-square&color=blueviolet&label=Profile+Views" />
 
