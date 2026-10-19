@@ -112,7 +112,7 @@ My focus is on software that works well in daily use: clean architecture, multil
 
 <br/>
 
-<img alt="Streak" src="https://github-readme-streak-stats.demolab.com/?user=DilkhoshSaadon98&theme=tokyonight&hide_border=true" />
+<img alt="Streak" src="https://streak-stats.demolab.com/?user=DilkhoshSaadon98&theme=tokyonight&hide_border=true" />
 
 </div>
 
