@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Dilkhosh%20Saadon&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Mobile%20%26%20Full-Stack%20Developer&descColor=00D4FF&descAlignY=60&descAlign=50&animation=fadeIn" width="100%" alt="Header" />
+<img src="./banner.svg" width="100%" alt="Dilkhosh Saadon banner" />
 
 <a href="https://github.com/DilkhoshSaadon98">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Building+cross-platform+apps+with+Flutter+%26+Dart;Designing+REST+APIs+and+MySQL+systems+with+PHP;Connecting+hardware+to+mobile+with+Arduino+%26+Firebase;Shipping+real+products+used+by+real+people" alt="Typing SVG" />
@@ -8,9 +8,8 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍_Norway,_Steinkjer-1E293B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📍_Kurdistan,_Iraq-1E293B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🟢_Open_to_Work-16A34A?style=for-the-badge" />
-<img src="https://komarev.com/ghpvc/?username=DilkhoshSaadon98&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -126,5 +125,3 @@ I'm open to **Flutter** roles, **full-stack** projects, **IoT** collaborations, 
   <a href="https://www.linkedin.com/in/dilkhosh-saadon-1430ba1a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/DilkhoshSaadon98?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="Footer" />
