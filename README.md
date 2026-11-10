@@ -51,7 +51,7 @@ My focus is on software that works well in daily use: clean architecture, multil
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
     </td>
     <td width="33%" valign="top">
-      <h3>🚗 Nordlys</h3>
+      <h3>🚗 TEORIVEI</h3>
       <p><b>Norwegian Driving Theory App</b></p>
       <p>Learning app in Arabic, Kurdish Sorani, English, and Norwegian, backed by a structured MySQL content pipeline.</p>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
